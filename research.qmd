@@ -1,7 +1,11 @@
 ---
 title: "Research"
 format: html
-resources: Scholz_Stereotypes_and_the_Gender_Application_Gap.pdf
+resources: Scholz_Stereotypes_and_the_Gender_Application_Gap.pdf Universitaet zu Koeln Logo.jpg
+
+include-in-header:
+  - text: |
+     <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
 ---
 
 

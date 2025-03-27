@@ -2,7 +2,7 @@
 title: "Paula Scholz"
 image: Paula_Scholz.jpg
   
-resources: CV_Paula_Scholz_Academic.pdf 
+resources: CV_Paula_Scholz_Academic.pdf Universitaet zu Koeln Logo.jpg
 about: 
       template: trestles
       image-shape: round
@@ -14,6 +14,9 @@ about:
         - text: CV
           icon: file-text
           href: CV_Paula_Scholz_Academic.pdf
+include-in-header:
+  - text: |
+     <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
     
 ---
 :::{#pcc}
