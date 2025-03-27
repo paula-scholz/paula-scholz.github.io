@@ -12,6 +12,9 @@ website:
       - research.qmd
       - cv.qmd
     background: light
+    
+margin-header: |
+  ![Logo image](/Universitaet zu Koeln Logo ENG Negativ)
 
 format:
   html:
