@@ -10,7 +10,7 @@ about:
       links:
         - text: LinkedIn
           icon: linkedin
-          href: https://www.linkedin.com/in/paula-scholz-217162221/
+          href: "https://www.linkedin.com/in/paula-scholz-217162221/"
         - text: CV
           icon: file-text
           href: CV_Paula_Scholz_Academic.pdf
