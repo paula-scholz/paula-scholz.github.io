@@ -10,7 +10,7 @@ about:
       links:
         - text: LinkedIn
           icon: linkedin
-          href: www.linkedin.com/in/paula-scholz-217162221
+          href: https://www.linkedin.com/in/paula-scholz-217162221/
         - text: CV
           icon: file-text
           href: CV_Paula_Scholz_Academic.pdf
@@ -19,7 +19,7 @@ about:
 :::{#pcc}
 ## About Me
 
-I am a PhD Candidate in the <a href="https://cd.wiso.uni-koeln.de/en/team/personnel-economics-and-human-resource-management">Department Corporate Development</a>  at the University of Cologne and a member of <a href="https://c-seb.de/">C-SEB</a> and <a href="https://econtribute.de/">ECONtribute</a>. 
+I am a PhD Candidate in the <a target="_blank" href="https://cd.wiso.uni-koeln.de/en/team/personnel-economics-and-human-resource-management">Department Corporate Development</a>  at the University of Cologne and a member of <a target="_blank" href="https://c-seb.de/">C-SEB</a> and <a target="_blank" href="https://econtribute.de/">ECONtribute</a>. 
 
 My research focuses on topics in organizational, gender and behavioral economics. In particular, I am interested in inequalities in labor markets and organizations. To study these aspects, I conduct laboratory experiments as well as field experiments in close collaboration with firms.
 
