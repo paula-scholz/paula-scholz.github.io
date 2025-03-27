@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Paula Scholz"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - cv.qmd
+    background: light
+
+format:
+  html:
+    theme: superhero
+    css: styles.css
+    toc: false
+    fontcolor: white
+
+
+

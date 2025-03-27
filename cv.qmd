@@ -1,0 +1,11 @@
+---
+title: "CV"
+format: html
+resources: CV_Paula_Scholz_Academic.pdf
+---
+Please find my current CV  <a href="CV_Paula_Scholz_Academic.pdf" target="_blank">here</a>.
+
+```{=html}
+<object data="CV_Paula_Scholz_Academic.pdf"  width="100%" height="70%" style="min-height:100vh;">
+</object>
+```
