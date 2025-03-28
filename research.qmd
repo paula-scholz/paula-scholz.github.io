@@ -10,7 +10,7 @@ include-in-header:
 
 
 
-## It's Not About the Money - Or is it? Stereotypes and the Gender Application Gap 
+## It's Not About the Money - Or Is It? Stereotypes and the Gender Application Gap 
 <i> Single-authored </i>
 
 This study investigates how salary differences, gender stereotypes and prior leadership experience influence the willingness to pursue leadership roles. Using a controlled laboratory experiment, I focus on communication and coordination responsibilities of leaders. In the experiment, subjects are randomly assigned to leadership positions in a public goods game in which the leader communicates with and coordinates the team. Afterwards, I elicit the willingness to pay to become the leader varying whether the position comes with a low or high salary. I find that women have a substantially lower willingness to pay to attain the leadership position compared to men if and only if it comes with a high salary. Despite women being equally effective team leaders as men, belief elicitation shows that high salaries shift leadership roles from being perceived as stereotypical female to stereotypical male. This stereotypical perception of associating a highly paid leader with men translates into subjects' willingness to pay to attain the position. Exogenous exposure to leadership roles does not reduce the gender application gap, suggesting that experience alone cannot overcome instilled stereotypes. 
