@@ -27,4 +27,4 @@ This study investigates how salary differences, gender stereotypes and prior lea
 
 
 <strong>Identity and Employee Turnover - A Field Experiment</strong>
-<br> <i> with <a href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogesang</a> <br> (Data collection on-going)<i> 
+<br> <i> with <a href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> <br> (Data collection on-going)<i> 
