@@ -1,16 +1,16 @@
 ---
 title: "CV"
 format: html
-resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic.pdf
+resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic_June25.pdf
 
 include-in-header:
   - text: |
      <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
     
 ---
-Please find my current CV  <a href="CV_Paula_Scholz_Academic.pdf" target="_blank">here</a>.
+Please find my current CV  <a href="CV_Paula_Scholz_Academic_June25.pdf" target="_blank">here</a>.
 
 ```{=html}
-<object data="CV_Paula_Scholz_Academic.pdf" height="70%" width="100%"  style="min-height:100vh;">
+<object data="CV_Paula_Scholz_Academic_June25.pdf" height="70%" width="100%"  style="min-height:100vh;">
 </object>
 ```

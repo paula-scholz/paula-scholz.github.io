@@ -2,7 +2,7 @@
 title: "Paula Scholz"
 image: Paula_2932_1a_neu.jpg
   
-resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic.pdf
+resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic_June25.pdf
 about: 
       template: trestles
       image-shape: round
@@ -14,7 +14,7 @@ about:
           href: "https://www.linkedin.com/in/paula-scholz-217162221/"
         - text: CV
           icon: file-text
-          href: CV_Paula_Scholz_Academic.pdf
+          href: CV_Paula_Scholz_Academic_June25.pdf
 include-in-header:
   - text: |
      <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
