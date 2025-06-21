@@ -1,7 +1,7 @@
 ---
 title: "CV"
 format: html
-resources: CV_Paula_Scholz_Academic.pdf Universitaet zu Koeln Logo.jpg
+resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic.pdf
 
 include-in-header:
   - text: |

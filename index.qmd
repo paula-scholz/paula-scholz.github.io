@@ -2,7 +2,7 @@
 title: "Paula Scholz"
 image: Paula_2932_1a_neu.jpg
   
-resources: CV_Paula_Scholz_Academic.pdf Universitaet zu Koeln Logo.jpg
+resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic.pdf
 about: 
       template: trestles
       image-shape: round
