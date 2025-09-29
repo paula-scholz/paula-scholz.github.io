@@ -8,9 +8,9 @@ include-in-header:
      <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
     
 ---
-Please find my current CV  <a href="CV_Paula_Scholz_Academic_June25.pdf" target="_blank">here</a>.
+Please find my current CV  <a href="CV_Paula_Scholz_Academic_Sep25.pdf" target="_blank">here</a>.
 
 ```{=html}
-<object data="CV_Paula_Scholz_Academic_June25.pdf" height="70%" width="100%"  style="min-height:100vh;">
+<object data="CV_Paula_Scholz_Academic_Sep25.pdf" height="70%" width="100%"  style="min-height:100vh;">
 </object>
 ```
