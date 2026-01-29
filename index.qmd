@@ -14,7 +14,7 @@ about:
           href: "https://www.linkedin.com/in/paula-scholz-217162221/"
         - text: CV
           icon: file-text
-          href: CV_Paula_Scholz_Academic_Sep25.pdf
+          href: CV_Paula_Scholz_Academic_Jan26.pdf
 include-in-header:
   - text: |
      <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
