@@ -1,1 +1,9 @@
 /* css styles */
+<style>
+  .abstract {
+    text-align: justify;  /* Blocksatz */
+    line-height: 1.6;     /* angenehmer Zeilenabstand */
+    margin: 20px 0;       /* Abstand oben/unten */
+    font-family: Arial, sans-serif;
+  }
+</style>
