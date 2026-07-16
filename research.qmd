@@ -26,6 +26,13 @@ Despite substantial gains in women’s education and labor market participation,
 ### Work in Progress
 
 
+<strong>Gender Discrimination against Pre-PhD Students: Evidence from a Field
+Experiment</strong> <br> <i> <small> with <a href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a> and <a href="https://www.wiwi.rub.de/personen/dr-christoph-feldhaus/">Christoph Feldhaus</a> </i></small>
+
+- <small>Data collection completed </small> 
+- <small>Manuscript in preparation </small> 
+
+
 <strong>Onboarding, Matching, and Employee Turnover - A Field Experiment</strong> <br> <i> <small> with <a href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> </i></small> </br>
 <details>
   <summary>Abstract</summary>
