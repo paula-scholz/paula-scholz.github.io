@@ -27,13 +27,13 @@ Despite substantial gains in women’s education and labor market participation,
 
 
 <strong>Gender Discrimination against Pre-PhD Students: Evidence from a Field
-Experiment</strong> <br> <i> <small> with <a href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a> and <a href="https://www.wiwi.rub.de/personen/dr-christoph-feldhaus/">Christoph Feldhaus</a> </i></small>
+Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a> and <a target="_blank" href="https://scholar.google.com/citations?user=mXe3h70AAAAJ&hl=de">Christoph Feldhaus</a> </i></small>
 
 - <small>Data collection completed </small> 
 - <small>Manuscript in preparation </small> 
 
 
-<strong>Onboarding, Matching, and Employee Turnover - A Field Experiment</strong> <br> <i> <small> with <a href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> </i></small> </br>
+<strong>Onboarding, Matching, and Employee Turnover - A Field Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a target="_blank" href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> </i></small> </br>
 <details>
   <summary>Abstract</summary>
   <p style="text-align: justify;"> <small>  We evaluate how a low-cost onboarding practice at the beginning of the employment
@@ -55,12 +55,12 @@ treatment also fostered employee motivation.</small>
 
 
 
-<strong>AI or human? Applicants’ decisions in discrimination settings</strong> <br> <i> <small> with <a href="https://economics.uni-koeln.de/de/personen/doctoral-students/luisa-santiago-wolf">Luisa Santiago Wolf</a> and <a href="https://cd.wiso.uni-koeln.de/en/team/strategic-management/david-stommel">David Stommel</a> </i> </small> </br>
+<strong>AI or human? Applicants’ decisions in discrimination settings</strong> <br> <i> <small> with <a target="_blank" href="https://economics.uni-koeln.de/de/team/doctoral-students/luisa-santiago-wolf">Luisa Santiago Wolf</a> and <a target="_blank" href="https://cd.wiso.uni-koeln.de/en/team/strategic-management/david-stommel">David Stommel</a> </i> </small> </br>
 
 - <small> Manuscript in preparation</small> 
 - <a target="_blank" href="https://www.queb.org/blog/ki-im-recruiting/"><small> Queb Blog Post</small> </a>
 
-<strong>Building Better Managers for the Future of Work</strong> <br> <i> <small>with <a href="https://www.daviddeming.com/">David J. Deming</a>,  <a href="https://sites.google.com/site/josephvecci/home">Joe Vecci</a>, and <a href="https://www.benweidmann.org/">Ben Weidmann</a> </i> </small> </br>
+<strong>Building Better Managers for the Future of Work</strong> <br> <i> <small>with <a target="_blank" href="https://www.daviddeming.com/">David J. Deming</a>,  <a target="_blank" href="https://sites.google.com/site/josephvecci/home">Joe Vecci</a>, and <a target="_blank" href="https://www.benweidmann.org/">Ben Weidmann</a> </i> </small> </br>
 
 - <small> Design stage</small> 
 
