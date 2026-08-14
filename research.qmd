@@ -1,7 +1,7 @@
 ---
 title: "Research"
 format: html
-resources: Scholz_Stereotypes_and_the_Gender_Application_Gap_20260402.pdf Universitaet zu Koeln Logo.jpg
+resources: Scholz_Leadership_and_the_Gender_Application_Gap_August2026.pdf Universitaet zu Koeln Logo.jpg
 
 include-in-header:
   - text: |
@@ -11,17 +11,18 @@ include-in-header:
 
 ### Working Papers
 
-<strong>It's Not About the Money - Or Is It? Stereotypes and the Gender Application Gap</strong>  <br><i> <small> Single-authored </i></small></br>
+<strong>It's Not About the Money - Or Is It? Leadership and the Gender Application Gap</strong>  <br><i> <small> Single-authored </i></small></br>
 <details>
   <summary>Abstract</summary>
   <p style="text-align: justify;"><small> 
-Despite substantial gains in women’s education and labor market participation, women remain underrepresented in leadership positions, which sustains gender pay gaps at the top of the wage distribution. A key potential supply-side factor is a gender gap in applications for leadership and higher-paying roles. With salaries becoming increasingly observable at the moment of application, understanding their role in application behavior is important. In a laboratory experiment, I study the following three aspects: I i) study the role of different salary levels on the gender application gap, ii) examine underlying mechanisms and iii) test a potential solution to mitigate any salary-induced gender application gap. I find a substantial gender gap in the willingness to pay only for highly paid positions: women are less willing than men to seek these roles despite performing equally well as leaders. Higher salaries shift the perceived stereotype of leadership from female-typed to male-typed, primarily among men, which is associated with their greater willingness to lead. The tested solution, randomly assigning leadership experience, does not, on average, reduce the gender application gap, suggesting that experience alone is insufficient to overcome instilled stereotypes.</small> 
+A key supply-side factor contributing to gender gaps in pay and representation in leadership is a gender gap in applications for those positions. With salaries becoming increasingly observable at the application stage, understanding the role of different salary levels in application behavior is important. Using a laboratory experiment, I i) study the role of different salary levels on the gender application gap, ii) examine underlying mechanisms and iii) test a potential solution to mitigate any salary-induced gender application gap. I find a substantial gender gap in the willingness to apply only for highly paid positions: women are 12% less willing to pay than men to acquire these roles despite performing equally well as leaders. While risk attitudes and confidence do not drive the application gap, I find that the gender difference can be explained by men's general higher willingness to claim the lead, which is salary-dependent and gets activated for high salary positions. Additionally, the high salary position is associated with a shift in the perceived stereotype about leadership from female-typed to male-typed, especially among men. Randomly assigning prior leadership experience, a potential solution, does on average not reduce 
+the gender application gap.</small> 
 </p>
 </details>
 
 
 
-- <a target="_blank" href="Scholz_Stereotypes_and_the_Gender_Application_Gap_20260402.pdf"><small> Current Version </small> </a>
+- <a target="_blank" href="Scholz_Leadership_and_the_Gender_Application_Gap_August2026.pdf"><small> Current Version </small> </a>
 
 ### Work in Progress
 
