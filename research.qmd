@@ -24,14 +24,24 @@ the gender application gap.</small>
 
 - <a target="_blank" href="Scholz_Leadership_and_the_Gender_Application_August2026.pdf"><small> Current Version </small> </a>
 
+
+
+
+<strong>Gender Discrimination against Pre-PhD Students: A Field Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a>,  <a target="_blank" href="https://scholar.google.com/citations?user=mXe3h70AAAAJ&hl=de">Christoph Feldhaus</a>, and  <a target="_blank" href="https://sites.google.com/view/sebastianberger">Sebastian Berger</a> </i></small>
+
+<details>
+  <summary>Abstract</summary>
+  <p style="text-align: justify;"><small> 
+ We conduct a field experiment on gender discrimination against pre-PhD students in academic economics and business administration. We invite the universe of postdocs and professors at German, Austrian, and Swiss universities to a survey on AI in teaching. Invitations are randomly sent by nine male and nine female Master’s students. Each student also randomly varies whether their email mentions a PhD intention. Male researchers provide more answers to female students, while female researchers show no average gender difference. PhD intention increases male researchers' responses to male students. It reduces female researchers' responses to female students, driven mainly by tenured researchers.
+</small> 
+</p>
+</details>
+
+
+- <a target="_blank" href="Pre_PhD_Discrimination_September2026"><small> Current Version </small> </a>
+
+
 ### Work in Progress
-
-
-<strong>Gender Discrimination against Pre-PhD Students: Evidence from a Field
-Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a> and <a target="_blank" href="https://scholar.google.com/citations?user=mXe3h70AAAAJ&hl=de">Christoph Feldhaus</a> </i></small>
-
-- <small>Data collection completed </small> 
-- <small>Manuscript in preparation </small> 
 
 
 <strong>Onboarding, Matching, and Employee Turnover - A Field Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a target="_blank" href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> </i></small> </br>
