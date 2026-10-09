@@ -1,7 +1,7 @@
 ---
 title: "Research"
 format: html
-resources: Scholz_Leadership_and_the_Gender_Application_August2026.pdf Pre_PhD_Discrimination_September2026 Universitaet zu Koeln Logo.jpg
+resources: Scholz_Leadership_and_the_Gender_Application_August2026.pdf Pre_PhD_Discrimination_September2026.pdf Universitaet zu Koeln Logo.jpg
 
 include-in-header:
   - text: |
@@ -38,7 +38,7 @@ the gender application gap.</small>
 </details>
 
 
-- <a target="_blank" href="Pre_PhD_Discrimination_September2026"><small> Current Version </small> </a>
+- <a target="_blank" href="Pre_PhD_Discrimination_September2026.pdf"><small> Current Version </small> </a>
 
 
 ### Work in Progress
