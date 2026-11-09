@@ -25,16 +25,17 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<link href="./Universitaet zu Koeln Logo.jpg" rel="icon" type="image/jpeg">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -48,7 +49,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<link rel="icon" type="image/png" href="Universitaet zu Koeln Logo.jpg">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">CV</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+            <div class="quarto-navbar-tools">
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -100,6 +100,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">CV</h1>
+<p class="subtitle lead">Last updated: November 2026</p>
 </div>
 
 
@@ -114,8 +115,13 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Please find my current CV <a href="CV_Paula_Scholz_Academic_Nov26.pdf" target="_blank">here</a>.</p>
-<object data="CV_Paula_Scholz_Academic_Nov26.pdf" height="70%" width="100%" style="min-height:100vh;">
+<div class="cv-actions">
+  <a class="pill" href="CV_Paula_Scholz_Academic_Nov26.pdf" target="_blank">open in new tab</a>
+  <a class="pill" href="CV_Paula_Scholz_Academic_Nov26.pdf" download="">download pdf</a>
+</div>
+
+<object class="cv-frame" data="CV_Paula_Scholz_Academic_Nov26.pdf#view=FitH" type="application/pdf">
+  <p>Your browser cannot display the PDF here. <a href="CV_Paula_Scholz_Academic_Nov26.pdf">Download the CV</a> instead.</p>
 </object>
 
 
@@ -355,6 +361,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">© 2026 Paula Scholz · University of Cologne</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

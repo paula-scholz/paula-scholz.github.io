@@ -5,22 +5,23 @@ project:
 website:
   title: "Paula Scholz"
   search: false
+  favicon: "Universitaet zu Koeln Logo.jpg"
 
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - cv.qmd
-    background: light
-  
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+
+  page-footer:
+    center: "© 2026 Paula Scholz · University of Cologne"
 
 format:
   html:
-    theme: superhero
+    theme: [litera, custom.scss]
     css: styles.css
     toc: false
-    fontcolor: white
-
-
-
+    page-layout: article

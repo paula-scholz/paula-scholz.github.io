@@ -1,79 +1,78 @@
 ---
 title: "Research"
-format: html
-resources: Scholz_Leadership_and_the_Gender_Application_August2026.pdf Pre_PhD_Discrimination_September2026.pdf Universitaet zu Koeln Logo.jpg
-
-include-in-header:
-  - text: |
-     <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
-
+resources:
+  - Scholz_Leadership_and_the_Gender_Application_August2026.pdf
+  - Pre_PhD_Discrimination_September2026.pdf
 ---
 
-### Working Papers
+```{=html}
+<h2 class="section-head">Job Market Paper</h2>
 
-<strong>It's Not About the Money - Or Is It? Leadership and the Gender Application Gap</strong>  <br><i> <small> Single-authored </i></small></br>
-<details>
-  <summary>Abstract</summary>
-  <p style="text-align: justify;"><small> 
-A key supply-side factor contributing to gender gaps in pay and representation in leadership is a gender gap in applications for those positions. With salaries becoming increasingly observable at the application stage, understanding the role of different salary levels in application behavior is important. Using a laboratory experiment, I i) study the role of different salary levels on the gender application gap, ii) examine underlying mechanisms and iii) test a potential solution to mitigate any salary-induced gender application gap. I find a substantial gender gap in the willingness to apply only for highly paid positions: women are 12% less willing to pay than men to acquire these roles despite performing equally well as leaders. While risk attitudes and confidence do not drive the application gap, I find that the gender difference can be explained by men's general higher willingness to claim the lead, which is salary-dependent and gets activated for high salary positions. Additionally, the high salary position is associated with a shift in the perceived stereotype about leadership from female-typed to male-typed, especially among men. Randomly assigning prior leadership experience, a potential solution, does on average not reduce 
-the gender application gap.</small> 
-</p>
-</details>
+<div class="paper">
+  <div class="paper-title">It's Not About the Money – Or Is It? Leadership and the Gender Application Gap</div>
+  <div class="paper-authors">Single-authored</div>
+  <div class="paper-actions">
+    <a class="pill" target="_blank" href="Scholz_Leadership_and_the_Gender_Application_August2026.pdf">pdf</a>
+    <details>
+      <summary>abstract</summary>
+      <p class="abstract">A key supply-side factor contributing to gender gaps in pay and representation in leadership is a gender gap in applications for those positions. With salaries becoming increasingly observable at the application stage, understanding the role of different salary levels in application behavior is important. Using a laboratory experiment, I i) study the role of different salary levels on the gender application gap, ii) examine underlying mechanisms and iii) test a potential solution to mitigate any salary-induced gender application gap. I find a substantial gender gap in the willingness to apply only for highly paid positions: women are 12% less willing to pay than men to acquire these roles despite performing equally well as leaders. While risk attitudes and confidence do not drive the application gap, I find that the gender difference can be explained by men's general higher willingness to claim the lead, which is salary-dependent and gets activated for high salary positions. Additionally, the high salary position is associated with a shift in the perceived stereotype about leadership from female-typed to male-typed, especially among men. Randomly assigning prior leadership experience, a potential solution, does on average not reduce the gender application gap.</p>
+    </details>
+  </div>
+</div>
 
+<h2 class="section-head">Papers Under Review</h2>
 
+<div class="paper">
+  <div class="paper-title">Gender Discrimination against Pre-PhD Students: A Field Experiment</div>
+  <div class="paper-authors">with <a target="_blank" href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a>, <a target="_blank" href="https://scholar.google.com/citations?user=mXe3h70AAAAJ&hl=de">Christoph Feldhaus</a>, and <a target="_blank" href="https://sites.google.com/view/sebastianberger">Sebastian Berger</a></div>
+  <div class="paper-status">Rejected and resubmitted, <em>Journal of Human Resources</em></div>
+  <div class="paper-actions">
+    <a class="pill" target="_blank" href="Pre_PhD_Discrimination_September2026.pdf">pdf</a>
+    <details>
+      <summary>abstract</summary>
+      <p class="abstract">We conduct a field experiment on gender discrimination against pre-PhD students in academic economics and business administration. We invite the universe of postdocs and professors at German, Austrian, and Swiss universities to a survey on AI in teaching. Invitations are randomly sent by nine male and nine female Master’s students. Each student also randomly varies whether their email mentions a PhD intention. Male researchers provide more answers to female students, while female researchers show no average gender difference. PhD intention increases male researchers' responses to male students. It reduces female researchers' responses to female students, driven mainly by tenured researchers.</p>
+    </details>
+  </div>
+</div>
 
-- <a target="_blank" href="Scholz_Leadership_and_the_Gender_Application_August2026.pdf"><small> Current Version </small> </a>
+<h2 class="section-head">Working Papers</h2>
 
+<div class="paper">
+  <div class="paper-title">Onboarding, Matching, and Employee Turnover – A Field Experiment</div>
+  <div class="paper-authors">with <a target="_blank" href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a target="_blank" href="https://www.timovogelsang.com/">Timo Vogelsang</a></div>
+  <div class="paper-status">Data collection completed · Draft available upon request</div>
+  <div class="paper-actions">
+    <details>
+      <summary>abstract</summary>
+      <p class="abstract">We evaluate how a low-cost onboarding practice at the beginning of the employment affects turnover among newly hired frontline employees. In partnership with a large German retail chain, we ran a field experiment across more than 900 stores and 2371 new hires (August 2024 – July 2025). Treated stores implemented a structured welcome intervention: managers announced the newcomer in advance and hosted a brief social event with their colleagues on the first day, while control stores continued with business-as-usual onboarding. The intervention increases separations in the first month of employment by about 2 percentage points while cumulative separations over three and six months are largely unchanged, in line with the view that the intervention accelerates mutual learning about match quality. Both stayers and movers in the treatment group have higher working hours indicating that the treatment also fostered employee motivation.</p>
+    </details>
+  </div>
+</div>
 
+<div class="paper">
+  <div class="paper-title">AI or Human? Applicants’ Decisions in Discrimination Settings</div>
+  <div class="paper-authors">with <a target="_blank" href="https://economics.uni-koeln.de/de/team/doctoral-students/luisa-santiago-wolf">Luisa Santiago Wolf</a> and <a target="_blank" href="https://cd.wiso.uni-koeln.de/en/team/strategic-management/david-stommel">David Stommel</a></div>
+  <div class="paper-status">Data collection completed · Draft available upon request</div>
+  <div class="paper-actions">
+    <a class="pill" target="_blank" href="https://www.queb.org/blog/ki-im-recruiting/">queb blog post</a>
+    <details>
+      <summary>abstract</summary>
+      <p class="abstract">We study how anticipated discrimination shapes applicants’ beliefs about and choices of evaluators. We conduct an online hiring experiment in which participants choose whether a human or an algorithm decides whether or not to hire them. The experiment exogenously introduces either taste-based or statistical discrimination. We show that both the presence and type of anticipated discrimination causally influence evaluator choice. Applicants expecting taste-based discrimination perceive AI as less biased and prefer algorithmic evaluation, while those expecting in-group favoritism prefer human decision makers. Under statistical discrimination, disadvantaged applicants prefer human decision makers, whereas advantaged applicants tend to favor AI, which they expect to rely more strongly on performance signals. Text analysis of participants’ statements reveals that attitudes towards AI in hiring depends on the type of anticipated discrimination with implications for the design and communication of hiring processes.</p>
+    </details>
+  </div>
+</div>
 
+<h2 class="section-head">Work in Progress</h2>
 
-<strong>Gender Discrimination against Pre-PhD Students: A Field Experiment</strong> <br>  <i> <small> rejected and resubmitted, Journal of Human Resources </i></small> <br> <i> <small> with <a target="_blank" href="https://www.bwl.uni-mannheim.de/en/doerrenberg/team/prof-dr-philipp-doerrenberg/">Philipp Dörrenberg</a>,  <a target="_blank" href="https://scholar.google.com/citations?user=mXe3h70AAAAJ&hl=de">Christoph Feldhaus</a>, and  <a target="_blank" href="https://sites.google.com/view/sebastianberger">Sebastian Berger</a> </i></small>
-
-<details>
-  <summary>Abstract</summary>
-  <p style="text-align: justify;"><small> 
- We conduct a field experiment on gender discrimination against pre-PhD students in academic economics and business administration. We invite the universe of postdocs and professors at German, Austrian, and Swiss universities to a survey on AI in teaching. Invitations are randomly sent by nine male and nine female Master’s students. Each student also randomly varies whether their email mentions a PhD intention. Male researchers provide more answers to female students, while female researchers show no average gender difference. PhD intention increases male researchers' responses to male students. It reduces female researchers' responses to female students, driven mainly by tenured researchers.
-</small> 
-</p>
-</details>
-
-
-- <a target="_blank" href="Pre_PhD_Discrimination_September2026.pdf"><small> Current Version </small> </a>
-
-
-### Work in Progress
-
-
-<strong>Onboarding, Matching, and Employee Turnover - A Field Experiment</strong> <br> <i> <small> with <a target="_blank" href="https://dsliwka.github.io/">Dirk Sliwka</a> and <a target="_blank" href="https://sites.google.com/site/vogelsangtimo/">Timo Vogelsang</a> </i></small> </br>
-<details>
-  <summary>Abstract</summary>
-  <p style="text-align: justify;"> <small>  We evaluate how a low-cost onboarding practice at the beginning of the employment
-affects turnover among newly hired frontline employees. In partnership with a large German
-retail chain, we ran a field experiment across more than 900 stores and 2371 new hires (August
-2024 - July 2025). Treated stores implemented a structured welcome intervention: managers
-announced the newcomer in advance and hosted a brief social event with their colleagues
-on the first day, while control stores continued with business-as-usual onboarding. The
-intervention increases separations in the first month of employment by about 2 percentage
-points while cumulative separations over three and six months are largely unchanged, in line
-with the view that the intervention accelerates mutual learning about match quality. Both
-stayers and movers in the treatment group have higher working hours indicating that the
-treatment also fostered employee motivation.</small> 
-</p>
-</details>
-
-- <small>Data collection completed </small> 
-- <small>Draft available upon request </small> 
-
-
-
-<strong>AI or human? Applicants’ decisions in discrimination settings</strong> <br> <i> <small> with <a target="_blank" href="https://economics.uni-koeln.de/de/team/doctoral-students/luisa-santiago-wolf">Luisa Santiago Wolf</a> and <a target="_blank" href="https://cd.wiso.uni-koeln.de/en/team/strategic-management/david-stommel">David Stommel</a> </i> </small> </br>
-
-- <small> Manuscript in preparation</small> 
-- <a target="_blank" href="https://www.queb.org/blog/ki-im-recruiting/"><small> Queb Blog Post</small> </a>
-
-<strong>Building Better Managers for the Future of Work</strong> <br> <i> <small>with <a target="_blank" href="https://www.daviddeming.com/">David J. Deming</a>,  <a target="_blank" href="https://sites.google.com/site/josephvecci/home">Joe Vecci</a>, and <a target="_blank" href="https://www.benweidmann.org/">Ben Weidmann</a> </i> </small> </br>
-
-- <small> Design stage</small> 
-
-
-
+<div class="paper">
+  <div class="paper-title">Building Better Managers for the Future of Work</div>
+  <div class="paper-authors">with <a target="_blank" href="https://www.daviddeming.com/">David J. Deming</a>, <a target="_blank" href="https://sites.google.com/site/josephvecci/home">Joe Vecci</a>, and <a target="_blank" href="https://www.benweidmann.org/">Ben Weidmann</a></div>
+  <div class="paper-status">Design stage</div>
+  <div class="paper-actions">
+    <details>
+      <summary>description</summary>
+      <p class="abstract">In this project, we plan to examine how AI changes team organization, managerial skill requirements, and the development of junior employees. We will run a field experiment and study teams of white-collar workers in India performing real workplace tasks over several weeks. Team composition and manager assignment will follow the repeated-randomization method, which identifies individual contributions to team output by randomly assigning workers to multiple teams and controlling for individual skill. This setting allows us to generate rapid evidence on AI changes and investigate organizational processes in a natural work environment while maintaining experimental control.</p>
+    </details>
+  </div>
+</div>
+```

@@ -1,16 +1,17 @@
 ---
 title: "CV"
-format: html
-resources:  Universitaet zu Koeln Logo.jpg CV_Paula_Scholz_Academic_Nov26.pdf
-
-include-in-header:
-  - text: |
-     <link rel = "icon" type = "image/png" href = "Universitaet zu Koeln Logo.jpg" />
-    
+subtitle: "Last updated: November 2026"
+resources:
+  - CV_Paula_Scholz_Academic_Nov26.pdf
 ---
-Please find my current CV  <a href="CV_Paula_Scholz_Academic_Nov26.pdf" target="_blank">here</a>.
 
 ```{=html}
-<object data="CV_Paula_Scholz_Academic_Nov26.pdf" height="70%" width="100%"  style="min-height:100vh;">
+<div class="cv-actions">
+  <a class="pill" href="CV_Paula_Scholz_Academic_Nov26.pdf" target="_blank">open in new tab</a>
+  <a class="pill" href="CV_Paula_Scholz_Academic_Nov26.pdf" download>download pdf</a>
+</div>
+
+<object class="cv-frame" data="CV_Paula_Scholz_Academic_Nov26.pdf#view=FitH" type="application/pdf">
+  <p>Your browser cannot display the PDF here. <a href="CV_Paula_Scholz_Academic_Nov26.pdf">Download the CV</a> instead.</p>
 </object>
 ```
